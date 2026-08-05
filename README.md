@@ -14,11 +14,31 @@
 
 ---
 
+<!-- 公告区域：Cursor 与 Codex 官方 API 套餐与购买入口 -->
+
+## 📢 Cursor Pay-per-Use Official Membership — Limited Availability 🎉
+
 <div align="center">
+<a href="https://pay.ldxp.cn/shop/yuaotian">
+<img src="img/Cursor-500-120-EN.png" alt="Cursor Pay-per-Use Official Membership — $120, 500 uses, 25-day warranty" width="750">
+</a>
+</div>
 
-<!-- 公告区域：展示 Codex 官方 API 套餐与购买入口 -->
+> **$120 · 500 uses · 25-day warranty · Sign in and start using**
+>
+> - Usage-based billing: 1 credit per request by default; 2 credits per request in Thinking Mode. Every 10 million tokens also counts toward credit usage.
+> - Service period: 25 calendar days from purchase, with full warranty included.
+> - Supported models and features are listed in the image above.
 
-## 📢 Codex Official API Package Guide
+> [!IMPORTANT]
+> - **Do not use Max Mode.** It switches billing to the standard pay-as-you-go rate.
+> - Models **4.7, 5.5, and 5.4 are not supported** in this package. Please check compatibility before purchasing.
+> - Credit exhaustion is outside the scope of the day-based warranty.
+
+ **Telegram:** [@yuaotian](https://t.me/yuaotian)
+---
+
+## 📢 Codex Official API Packages
 
 | Package | Daily Limit | Weekly Limit | Monthly Limit | Price |
 |:---|:---:|:---:|:---:|---:|
@@ -27,28 +47,21 @@
 | 30-Day Stable Package | 200 | 500 | 1000 | $55 |
 | 30-Day Advanced Package | 400 | 1000 | 2000 | $90 |
 
-### Promo Copy
+### Why choose these packages?
 
-- Focused on stability and peace of mind, without being expensive.
-- Direct connection to the official Codex API.
-- One Pro account maps to one residential broadband IP.
-- Purchased with real money, not low-quality shared resources.
-- Self-tested for nearly half a month, with an excellent and stable overall experience (cache optimized).
-- Weekly card price: 【$6】. Unit cost is about `$6/200=$0.03`; daily limit 50, weekly limit 200, multiplier 1.
-- GPT model series supported, and image generation model (`image-2`) supported.
+- Stable, cost-conscious access with a direct connection to the official Codex API.
+- One Pro account maps to one residential broadband IP; resources are purchased with real money, not low-quality shared accounts.
+- Self-tested for nearly two weeks with cache optimization; GPT models and the image generation model (`image-2`) are supported.
+- Weekly card: **$6** for up to 200 weekly uses (about `$0.03/use`).
 
-**One email address can only use one weekly card!**
+> [!NOTE]
+> - One email address can use only one weekly card.
+> - Do not use jailbreak, adult-content, or reverse-engineering abuse; backend AI auditing may reject such requests.
+> - Need higher quotas, custom pay-as-you-go plans, or special requirements? Contact me directly.
 
-**Do not attempt jailbreak, adult-content, or reverse-engineering abuse. Backend AI auditing is already enabled and will reject it directly.**
-
-📢 **PS: If you need higher quotas, custom pay-as-you-go plans, or special requirements, contact me directly.**
-
-Weekly card order page: https://pay.ldxp.cn/item/oq0epw
-
-Store homepage (more packages): https://pay.ldxp.cn/shop/yuaotian
+**Telegram:** [@yuaotian](https://t.me/yuaotian)
 
 ---
-</div>
 
 > ⚠️ **IMPORTANT NOTICE**
 > 
