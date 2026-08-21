@@ -411,12 +411,6 @@ irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/
 - 🟦 **莱特币（LTC）**：`LVrigKxtWfPymMRtRqL3z2eZxfncR3dPV7`
 
 
----
-
-### 📚 推荐阅读
-
-- [Cursor 异常问题收集和解决方案](https://mp.weixin.qq.com/s/pnJrH7Ifx4WZvseeP1fcEA)
-- [AI 通用开发助手提示词指南](https://mp.weixin.qq.com/s/PRPz-qVkFJSgkuEKkTdzwg)
 
 ---
 
@@ -430,6 +424,26 @@ irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/
 - 🔧 **技术反馈**：性能、兼容性或易用性方面的见解
 
 您的反馈帮助我们为所有人改进工具。欢迎提交issue或为项目做出贡献！
+
+---
+
+## 赞助商感谢名单
+
+<!-- APIMart 赞助商鸣谢：左侧展示 Logo，右侧展示中文广告词 -->
+<table>
+<tr>
+<td width="30%" align="center">
+<a href="https://go.apimart.ai/gh-go-cursor-help" target="_blank" rel="noopener noreferrer">
+<img src="img/apimart.png" alt="APIMart" width="240">
+</a>
+</td>
+<td width="70%">
+<a href="https://go.apimart.ai/gh-go-cursor-help" target="_blank" rel="noopener noreferrer">感谢 APIMart 赞助了本项目！APIMart 是专注 AI 图片/视频生成的低价 API 平台，GPT-Image-2 低至 $0.006/张，1 美元可出图 160+ 张。图片、视频一套异步 API 通吃，提交任务拿 ID、回调取结果，跑批万张不超时、换模型不改代码。按量付费、无月费，通过此注册链接注册即可开用。</a>
+</td>
+</tr>
+</table>
+
+
 
 ---
 

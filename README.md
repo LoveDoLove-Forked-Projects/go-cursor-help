@@ -400,6 +400,27 @@ ETC: 0xa2745f4CD5d32310AC01694ABDB28bA32D125a6b
 
 ---
 
+## Sponsors
+
+<!-- APIMart 赞助商鸣谢：左侧展示 Logo，右侧展示英文广告词 -->
+<table>
+<tr>
+<td width="30%" align="center">
+<a href="https://go.apimart.ai/gh-go-cursor-help" target="_blank" rel="noopener noreferrer">
+<img src="img/apimart.png" alt="APIMart" width="240">
+</a>
+</td>
+<td width="70%">
+<a href="https://go.apimart.ai/gh-go-cursor-help" target="_blank" rel="noopener noreferrer">Thanks to APIMart for sponsoring this project! APIMart is a low-cost API platform for AI image &amp; video generation  GPT-Image-2 from $0.006/image, 160+ images per dollar. One async API covers both image and video: submit a task, get an ID, fetch results via polling or callback. Batch tens of thousands of images without timeouts, switch models without changing code. Pay-as-you-go with no monthly fee  sign up here to get started.</a>
+</td>
+</tr>
+</table>
+
+
+---
+
+
+
 ## ⭐ Project Stats
 
 <div align="center">
